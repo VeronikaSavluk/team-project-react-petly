@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkteam_project_react_petly=self.webpackChunkteam_project_react_petly||[]).push([[631],{631:function(e,t,c){c.r(t),c.d(t,{RegisterPage:function(){return r}});var r=function(){}}}]);
+//# sourceMappingURL=631.21d5ea49.chunk.js.map
