@@ -18,4 +18,5 @@ export const ROUTES_CATEGORY_NAMES = {
   for_free: 'for-free',
   favorite: 'favorite',
   own: 'own',
+  // fix
 };
