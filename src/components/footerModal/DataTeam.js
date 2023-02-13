@@ -29,7 +29,7 @@ const dataTeam = [
     name: 'Nataliia Pogrebniak',
     role: 'Scrum master',
     linkGit: 'https://github.com/PNataliya',
-    linkedin: 'https://www.linkedin.com/in/nataliya-pogrebnyak-80655b73',
+    linkedin: 'https://www.linkedin.com/in/nataliya-pogrebnyak-fullstack/',
   },
   {
     id: '5',
@@ -41,11 +41,11 @@ const dataTeam = [
   },
   {
     id: '6',
-    imgUrl: require('../../images/team/plug.png'),
+    imgUrl: require('../../images/team/Victoria_Myzyniuk.jpg'),
     name: 'Victoria Myzyniuk',
     role: 'Frontend developer',
-    linkGit: 'https://github.com',
-    linkedin: 'https://www.linkedin.com/',
+    linkGit: 'https://github.com/VictoriaMyzyniuk',
+    linkedin: 'https://www.linkedin.com/in/victoria-myzyniuk-491037217/',
   },
   {
     id: '7',
@@ -65,11 +65,11 @@ const dataTeam = [
   },
   {
     id: '9',
-    imgUrl: require('../../images/team/plug.png'),
+    imgUrl: require('../../images/team/11_Viktor Hrimli.jpg'),
     name: 'Viktor Hrimli',
     role: 'Frontend developer',
-    linkGit: 'https://github.com',
-    linkedin: 'https://www.linkedin.com/',
+    linkGit: 'https://github.com/ViktorHrimli',
+    linkedin: 'https://www.linkedin.com/in/viktorhrimli/',
   },
   {
     id: '10',
@@ -93,7 +93,23 @@ const dataTeam = [
     name: 'Kirill Zerkal',
     role: 'QA engineer',
     linkGit: 'https://github.com',
-    linkedin: 'https://www.linkedin.com/',
+    linkedin: 'www.linkedin.com/in/kirill-zerkal',
+  },
+  {
+    id: '13',
+    imgUrl: require('../../images/team/Bohdan Kovalov.jpg'),
+    name: 'Bohdan Kovalov',
+    role: 'QA engineer',
+    linkGit: 'https://github.com',
+    linkedin: 'https://www.linkedin.com/in/bohdankovalov',
+  },
+  {
+    id: '14',
+    imgUrl: require('../../images/team/plug.png'),
+    name: 'Olena Halan',
+    role: 'QA engineer',
+    linkGit: 'https://github.com',
+    linkedin: 'https://www.linkedin.com/in/bohdankovalov',
   },
 ];
 
