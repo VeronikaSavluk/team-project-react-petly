@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/team-project-react-petly/static/css/main.0d5b2924.css",
-    "main.js": "/team-project-react-petly/static/js/main.04b06328.js",
+    "main.js": "/team-project-react-petly/static/js/main.b6514e84.js",
     "static/js/80.36ef8a1a.chunk.js": "/team-project-react-petly/static/js/80.36ef8a1a.chunk.js",
     "static/js/663.8e811efa.chunk.js": "/team-project-react-petly/static/js/663.8e811efa.chunk.js",
     "static/js/803.02de03c0.chunk.js": "/team-project-react-petly/static/js/803.02de03c0.chunk.js",
@@ -43,6 +43,7 @@
     "static/media/Oleksandr_Pidvysotskyi.jpg": "/team-project-react-petly/static/media/Oleksandr_Pidvysotskyi.4748731ba240fbe25a65.jpg",
     "static/media/7_Nikita_Rohovoi.jpeg": "/team-project-react-petly/static/media/7_Nikita_Rohovoi.05103ca9c5a04c8326f2.jpeg",
     "static/media/bgLoginMob.png": "/team-project-react-petly/static/media/bgLoginMob.10bab3557e52984479ce.png",
+    "static/media/Andrii_Kapustnikov.jpg": "/team-project-react-petly/static/media/Andrii_Kapustnikov.c701bfe893b87f33aac8.jpg",
     "static/media/Union@2x.png": "/team-project-react-petly/static/media/Union@2x.da533e4c582e040f6a6b.png",
     "static/media/HomepageM.webp": "/team-project-react-petly/static/media/HomepageM.6d9f5142557d9f20c4f3.webp",
     "static/media/Victoria_Myzyniuk.jpg": "/team-project-react-petly/static/media/Victoria_Myzyniuk.3b0f78e2d3805547eedd.jpg",
@@ -59,7 +60,7 @@
     "static/media/stroke.svg": "/team-project-react-petly/static/media/stroke.64d2cb340494bbf8955660394288d8cd.svg",
     "static/media/icon-cross-white.svg": "/team-project-react-petly/static/media/icon-cross-white.a71f7e14aa96561e1b4c322391e43c23.svg",
     "main.0d5b2924.css.map": "/team-project-react-petly/static/css/main.0d5b2924.css.map",
-    "main.04b06328.js.map": "/team-project-react-petly/static/js/main.04b06328.js.map",
+    "main.b6514e84.js.map": "/team-project-react-petly/static/js/main.b6514e84.js.map",
     "80.36ef8a1a.chunk.js.map": "/team-project-react-petly/static/js/80.36ef8a1a.chunk.js.map",
     "663.8e811efa.chunk.js.map": "/team-project-react-petly/static/js/663.8e811efa.chunk.js.map",
     "803.02de03c0.chunk.js.map": "/team-project-react-petly/static/js/803.02de03c0.chunk.js.map",
@@ -78,6 +79,6 @@
   },
   "entrypoints": [
     "static/css/main.0d5b2924.css",
-    "static/js/main.04b06328.js"
+    "static/js/main.b6514e84.js"
   ]
 }
