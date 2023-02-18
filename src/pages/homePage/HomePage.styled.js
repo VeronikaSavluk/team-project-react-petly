@@ -12,7 +12,7 @@ import BgT from '../../images/home/BgT.png';
 import BgT2x from '../../images/home/BgT@2x.png';
 import BgD from '../../images/home/BgD.png';
 import BgD2x from '../../images/home/BgD@2x.png';
-import Union from '../../images/home/Union.png';
+
 import Union2x from '../../images/home/Union@2x.png';
 
 export const Title = styled.h1`
@@ -72,7 +72,7 @@ export const HomeSection = styled.section`
     padding-bottom: 408px;
     min-height: 100vh;
 
-    background-image: url(${portraitD}), url(${BgD}), url(${Union});
+    background-image: url(${portraitD}), url(${BgD}), url(${Union2x});
     background-size: 590px 640px, 100vw calc(100vw * 0.375), 92px 89px;
     background-position-x: calc(50% + 330px), center, calc(50% + 118px);
     background-position-y: bottom, bottom, calc(50% - 204px);
